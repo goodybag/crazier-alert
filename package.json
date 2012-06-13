@@ -1,0 +1,20 @@
+{
+  "author": "John Fawcett",
+  "name": "gb-crazier-alert",
+  "description": "CRAZIER ALERTS FROM GOODYBAG",
+  "version": "0.1.0",
+  "homepage": "https://github.com/goodybag/crazier-alert",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/crazier-alert.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+		"gb-crazy-alert": ">=0.1.0"
+	},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
