@@ -12,8 +12,8 @@
   "dependencies": {
 		"gb-crazy-alert": ">=0.1.0"
 	},
-	volo: {
-		dependencies: {
+	"volo": {
+		"dependencies": {
 			"gb-crazy-alert": "goodybag/crazy-alert"
 		}
 	},
