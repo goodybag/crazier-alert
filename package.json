@@ -2,7 +2,7 @@
   "author": "John Fawcett",
   "name": "gb-crazier-alert",
   "description": "CRAZIER ALERTS FROM GOODYBAG",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "homepage": "https://github.com/goodybag/crazier-alert",
   "repository": {
     "type": "git",
