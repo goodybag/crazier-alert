@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/goodybag/crazier-alert.png)](http://travis-ci.org/goodybag/crazier-alert)
 #Crazier Alert
 
 Snazz up your alerts with CRAAAAZZZ-IER ALERTS!
